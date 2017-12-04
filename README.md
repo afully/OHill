@@ -1,5 +1,5 @@
 # OHill
-Property management alliance -物业管理联盟 
+Property management alliance -物业管理开放联盟
 
 # 项目名称由来 (来自网络)
 
